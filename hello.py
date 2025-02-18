@@ -1,2 +1,4 @@
 # This is a comment
-print("Hello world")
+text = "Hello world"
+print(text)
+
